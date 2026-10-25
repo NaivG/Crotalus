@@ -1,0 +1,787 @@
+{
+  "acacia_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "acacia_chest_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "allay": {
+    "client_tracking_range": 8,
+    "update_interval": 2,
+    "track_deltas": true
+  },
+  "area_effect_cloud": {
+    "client_tracking_range": 10,
+    "update_interval": 2147483647,
+    "track_deltas": true
+  },
+  "armadillo": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "armor_stand": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "arrow": {
+    "client_tracking_range": 4,
+    "update_interval": 20,
+    "track_deltas": true
+  },
+  "axolotl": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "bamboo_chest_raft": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "bamboo_raft": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "bat": {
+    "client_tracking_range": 5,
+    "update_interval": 3,
+    "track_deltas": false
+  },
+  "bee": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "birch_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "birch_chest_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "blaze": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "block_display": {
+    "client_tracking_range": 10,
+    "update_interval": 1,
+    "track_deltas": true
+  },
+  "bogged": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "breeze": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "breeze_wind_charge": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "camel": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "camel_husk": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "cat": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "cave_spider": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "cherry_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "cherry_chest_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "chest_minecart": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "chicken": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "cod": {
+    "client_tracking_range": 4,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "copper_golem": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "command_block_minecart": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "cow": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "creaking": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "creeper": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "dark_oak_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "dark_oak_chest_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "dolphin": {
+    "client_tracking_range": 5,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "donkey": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "dragon_fireball": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "drowned": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "egg": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "elder_guardian": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "enderman": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "endermite": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "ender_dragon": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "ender_pearl": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "end_crystal": {
+    "client_tracking_range": 16,
+    "update_interval": 2147483647,
+    "track_deltas": false
+  },
+  "evoker": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "evoker_fangs": {
+    "client_tracking_range": 6,
+    "update_interval": 2,
+    "track_deltas": false
+  },
+  "experience_bottle": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "experience_orb": {
+    "client_tracking_range": 6,
+    "update_interval": 20,
+    "track_deltas": true
+  },
+  "eye_of_ender": {
+    "client_tracking_range": 4,
+    "update_interval": 4,
+    "track_deltas": true
+  },
+  "falling_block": {
+    "client_tracking_range": 10,
+    "update_interval": 20,
+    "track_deltas": true
+  },
+  "fireball": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "firework_rocket": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "fox": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "frog": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "furnace_minecart": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "ghast": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "happy_ghast": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "giant": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "glow_item_frame": {
+    "client_tracking_range": 10,
+    "update_interval": 2147483647,
+    "track_deltas": false
+  },
+  "glow_squid": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "goat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "guardian": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "hoglin": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "hopper_minecart": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "horse": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "husk": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "illusioner": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "interaction": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "iron_golem": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "item": {
+    "client_tracking_range": 6,
+    "update_interval": 20,
+    "track_deltas": true
+  },
+  "item_display": {
+    "client_tracking_range": 10,
+    "update_interval": 1,
+    "track_deltas": true
+  },
+  "item_frame": {
+    "client_tracking_range": 10,
+    "update_interval": 2147483647,
+    "track_deltas": false
+  },
+  "jungle_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "jungle_chest_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "leash_knot": {
+    "client_tracking_range": 10,
+    "update_interval": 2147483647,
+    "track_deltas": false
+  },
+  "lightning_bolt": {
+    "client_tracking_range": 16,
+    "update_interval": 2147483647,
+    "track_deltas": true
+  },
+  "llama": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "llama_spit": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": false
+  },
+  "magma_cube": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "mangrove_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "mangrove_chest_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "mannequin": {
+    "client_tracking_range": 32,
+    "update_interval": 2,
+    "track_deltas": true
+  },
+  "marker": {
+    "client_tracking_range": 0,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "minecart": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "mooshroom": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "mule": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "nautilus": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "oak_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "oak_chest_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "ocelot": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "ominous_item_spawner": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "painting": {
+    "client_tracking_range": 10,
+    "update_interval": 2147483647,
+    "track_deltas": false
+  },
+  "pale_oak_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "pale_oak_chest_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "panda": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "parched": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "parrot": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "phantom": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "pig": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "piglin": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "piglin_brute": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "pillager": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "polar_bear": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "splash_potion": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "lingering_potion": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "pufferfish": {
+    "client_tracking_range": 4,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "rabbit": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "ravager": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "salmon": {
+    "client_tracking_range": 4,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "sheep": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "shulker": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "shulker_bullet": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "silverfish": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "skeleton": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "skeleton_horse": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "slime": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "small_fireball": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "sniffer": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "snowball": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "snow_golem": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "spawner_minecart": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "spectral_arrow": {
+    "client_tracking_range": 4,
+    "update_interval": 20,
+    "track_deltas": true
+  },
+  "spider": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "spruce_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "spruce_chest_boat": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "squid": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "stray": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "strider": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "tadpole": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "text_display": {
+    "client_tracking_range": 10,
+    "update_interval": 1,
+    "track_deltas": true
+  },
+  "tnt": {
+    "client_tracking_range": 10,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "tnt_minecart": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "trader_llama": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "trident": {
+    "client_tracking_range": 4,
+    "update_interval": 20,
+    "track_deltas": true
+  },
+  "tropical_fish": {
+    "client_tracking_range": 4,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "turtle": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "vex": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "villager": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "vindicator": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "wandering_trader": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "warden": {
+    "client_tracking_range": 16,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "wind_charge": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "witch": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "wither": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": false
+  },
+  "wither_skeleton": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "wither_skull": {
+    "client_tracking_range": 4,
+    "update_interval": 10,
+    "track_deltas": true
+  },
+  "wolf": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "zoglin": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "zombie": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "zombie_horse": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "zombie_nautilus": {
+    "client_tracking_range": 10,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "zombie_villager": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "zombified_piglin": {
+    "client_tracking_range": 8,
+    "update_interval": 3,
+    "track_deltas": true
+  },
+  "player": {
+    "client_tracking_range": 32,
+    "update_interval": 2,
+    "track_deltas": false
+  },
+  "fishing_bobber": {
+    "client_tracking_range": 4,
+    "update_interval": 5,
+    "track_deltas": true
+  }
+}

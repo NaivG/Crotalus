@@ -1,0 +1,49 @@
+[project]
+name = "Crotalus"
+version = "0.0.1.dev0"
+description = "Crotalus Minecraft Server 1.21.11"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "AGPL-3.0"}
+authors = [
+    {name = "NaivG"}
+]
+keywords = ["minecraft", "server", "1.21.11", "python", "asyncio", "networking", "multi-threading", "game", "multiplayer", "open-source", "cross-platform", "modding"]
+
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: GNU Affero General Public License v3 (AGPLv3)",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Python :: Free Threading :: 3 - Stable",
+    "Operating System :: OS Independent",
+    "Topic :: Games/Entertainment",
+]
+
+dependencies = [
+    "asyncio>=3.10",
+    "toml>=0.10.2",
+    "psutil>=5.9.0",
+    "cryptography>=41.0.0",
+    "aiohttp>=3.8.0",
+    "tqdm>=4.64.1",
+    "numpy>=1.22",
+    "numba>=0.65",
+    "prompt_toolkit>=3.0.50",
+    "loguru>=0.7.0",
+]
+
+[project.scripts]
+crotalus = "core.server:run"
+
+[project.urls]
+"Homepage" = "https://github.com/NaivG/Crotalus"
+"Repository" = "https://github.com/NaivG/Crotalus"
+"Bug Tracker" = "https://github.com/NaivG/Crotalus/issues"
+
+[build-system]
+requires = ["setuptools", "wheel"]

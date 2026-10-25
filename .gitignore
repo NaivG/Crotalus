@@ -1,0 +1,36 @@
+__pycache__/
+.DS_Store
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+.vscode/
+
+*.pyc
+*.nbc
+*.egg
+*.egg-info
+*.egg-link
+*.egg-cache
+*.egg-info/
+*.egg-info/*
+*.egg-info/SOURCES.txt
+
+Pumpkin/
+data/
+
+*.mdx
+*.md
+!README.md
+
+logs/
+tools/baselines/
+assets/vanilla_chunks/
+
+config.toml
